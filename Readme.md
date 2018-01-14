@@ -24,5 +24,7 @@ This repo only contains the **footprint** of such parts. To add the component to
 
 Then, associate these parts to this footprint.
 
+![Screenshot of the Omron LY-2x footprint](images/omron-LY2.png)
+
 ## More to come
 (maybe)
