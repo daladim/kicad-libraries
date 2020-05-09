@@ -4,7 +4,7 @@ This repo contains KiCAD models and footprints I made for various components.
 It may or may not grow in the future.
 
 ## Omron relays
-This repo contains a footprint for Omron LY1* and LY2* relays.
+This repo contains a footprint for __Omron LY1* and LY2*__ relays.
 It has been succefully tested with LY2N-J (also written LY2NJ) relays.
 According to [Omron's datasheet](https://www.fa.omron.com.cn/data_pdf/cat/ly_ds_e_4_7_csm54.pdf?id=949), it should also suit the following parts:
 
