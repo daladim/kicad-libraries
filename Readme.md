@@ -26,5 +26,12 @@ Then, associate these parts to this footprint.
 
 ![Screenshot of the Omron LY-2x footprint](images/omron-LY2.png)
 
+## Omron mini-USB connector
+This repo contains a footprint for the __Omron XM7D-0512__ through-hole mini-USB connector. It comes from [https://www.snapeda.com/parts/XM7D-0512/Omron%20Electronics%20Inc-EMC%20Div/view-part/](https://www.snapeda.com/parts/XM7D-0512/Omron%20Electronics%20Inc-EMC%20Div/view-part/), but corrects how the edges are drawn (they were mostly drawn on the wrong layers from this original URL).
+
+This is the footprint only. Any mini-USB connector symbol from the standard KiCad library will do (although the original URL for the footprint also contains a symbol, that should be OK).
+
+![Screenshot of the Omron XM7D-0512 footprint](images/omron-XM7D-0512.png)
+
 ## More to come
 (maybe)
