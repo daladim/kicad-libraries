@@ -43,5 +43,15 @@ This is the footprint only. Any mini-USB connector symbol from the standard KiCa
 
 ![Screenshot of the Omron XM7D-0512 footprint](images/omron-XM7D-0512.png)
 
-## More to come
+
+# Symbols in this repo
+
+## NCP5623 (I2C RGB LED driver)
+
+This repo contains a symbol of the NCP5623 I2C PWM LED driver. \
+This repo does not contain any footprint for it, since it is a regular TSSOP-24 package, which is already in KiCad's default libraries (`Package_SO:TSSOP-14_4.4x5mm_P0.65mm`).
+
+![Screenshot of the NCP5623 symbol for Kicad](images/NCP5623.png)
+
+# More to come
 (maybe)
