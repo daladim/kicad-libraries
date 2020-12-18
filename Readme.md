@@ -3,6 +3,16 @@
 This repo contains KiCAD models and footprints I made for various components.
 It may or may not grow in the future.
 
+## How to install a footprint
+To install them, download this repo (either use the `git clone` command, or use the Github feature to download these files as a zip), preferably in a sufolder of your KiCAD project. \
+Then, in KiCAD's footprints editor, go to `File>add library` and import the `*.pretty` you have just downloaded ([more info here](https://forum.kicad.info/t/how-to-get-a-downloaded-symbol-footprint-or-full-library-into-kicad-version-5/19485)).
+
+## How to install a symbol
+To install them, download this repo (either use the `git clone` command, or use the Github feature to download these files as a zip), preferably in a sufolder of your KiCAD project. \
+Then, in KiCAD's symbol editor, go to `File>add library` and import the `*.lib` file you have just downloaded ([more info here](https://forum.kicad.info/t/how-to-get-a-downloaded-symbol-footprint-or-full-library-into-kicad-version-5/19485)).
+
+# Models in this repo
+
 ## Omron relays
 This repo contains a footprint for __Omron LY1* and LY2*__ relays.
 It has been succefully tested with LY2N-J (also written LY2NJ) relays.
